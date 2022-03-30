@@ -12,15 +12,15 @@ AUTHOR_NAME = "Shouko komi"
 AUTHOR_URL = "https://t.me/HentaiWatchBot"
 
 #Cofig - plugins/sudoers.py
-SUDO_LIST = [2021224869]
+SUDO_LIST = [1593338093]
 MAX_MESSAGE_LENGTH = 4096
 
 # -> sudo_command_telegraph()
 INIT_MESSAGE_PHOTO = "https://telegra.ph/file/5efdb99994b1528f77ccf.png"
 
 #Config - plugins/nhentai.py
-LOGCHAT = -1001513602613
-NHCHANNEL = -1001632904989
+LOGCHAT = -1001598625668
+NHCHANNEL = -1001598625668
 LOG_MESSAGE = "{} has been added on {}"
 
 #Config - plugins/inline.py
