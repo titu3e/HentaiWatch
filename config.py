@@ -1,9 +1,9 @@
 import os
 
 #Config - bot.py
-API_ID = os.getenv('8153612') or "Your API ID here"
-API_HASH = os.getenv('6c9636ea928b50402b7d7c69a6eba45c') or "Your API HASH here"
-BOT_TOKEN = os.getenv('2077017001:AAHE9GF1OK2u3jRR9Ns5yZKycsQCR8HW0eY') or "BOT TOKEN here"
+API_ID = os.getenv('8626831') or "8626831"
+API_HASH = os.getenv('6c9636ea928b50402b7d7c69a6eba45c') or "db23330a6edf4a517ee186b35cedec71"
+BOT_TOKEN = os.getenv('2077017001:AAHE9GF1OK2u3jRR9Ns5yZKycsQCR8HW0eY') or "5188200237:AAEZbGn3vCuf0B8PvoAZEImt68niQuodRqA"
 PLUGINS = dict(root="plugins")
 
 #Config - plugins/utils.py -> TelegraphUP()
